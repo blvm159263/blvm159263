@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bùi Lễ Văn Minh</h1>
+<h1 align="center">Hi 👋, I'm Bui Le Van Minh</h1>
 <h3 align="center">Java Developer - Back-end Developer</h3>
 
 - 🔭 I’m currently studying at **FPT University**
