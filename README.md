@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **FPT University**
 
-- 🌱 I’m currently learning **SpringBoot, .NET**
+- 🌱 I’m currently learning **SpringBoot, ReactJS**
 
 - 👯 My major is **Software Engineering**
 
